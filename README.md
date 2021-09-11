@@ -43,6 +43,9 @@ Graduated 2011
 
 Licences
 --------
+- [Partner Training - Developer Essentials](https://credentials.databricks.com/155b03e1-08dc-4210-8e83-98f553d75e4d)\
+    *Issued by Databricks*
+    (Sep 2021 - Sep 2023)
 
 - [Partner Training - Developer Foundations](https://credentials.databricks.com/0701c154-349f-426c-8169-356cbb8bf59c)\
     *Issued by Databricks*
