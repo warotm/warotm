@@ -3,7 +3,7 @@ Warot Makarananda (Mai)
 
 ----
 
-> Hybrid of **AI Developer** and **Data Engineer**\
+> **Data Engineer** using **AI/ML**
 > Specialties: Python, SQL, Linux, GCP
 
 ----
@@ -11,11 +11,11 @@ Warot Makarananda (Mai)
 Summary
 -------
 
-Hybrid of AI Developer and Data Engineer, I am still looking for opportunity to automate human's boring tasks with Artificial Intelligence.
+Data Engineer using AI/ML aims to automate all-exist repetitive tasks in order to save humanities from boredom.
 
-I am very strong at applying new technologies to solve customer's unnatural data-related requirements. Everything is possible if we have enough time and resources.
+I'm expert on applying technologies to solve unnatural data-related problems with limited time and resources.
 
-My skills include Python programming, Google Cloud Platform and Solution/Architecture design.
+Python programming, Google Cloud Platform, Architecture design and Product evaluation are my polished skills.
 
 Career history
 --------------
