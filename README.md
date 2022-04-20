@@ -48,11 +48,17 @@ from Kasetsart University* (Bangkok, Thailand)
 Fluent skills
 -------------
 
-- **Programming** : Python, SQL
+- **Programming** : Python, SQL, PySpark
 - **Cloud** : Google Cloud Platform, Azure
 - **Data pipeline** : Airflow, Dagster
 - **Data warehouse** : BigQuery, Databricks
 - **Data/ML Tools** : Alteryx, Orange ML
+
+Langauges
+---------
+
+- **Thai** : Native speaker
+- **English** : IELTS 6.5 (Listening 7.5, Reading 6.5, Writing 5.5, Speaking 6.0)
 
 Licenses
 --------
@@ -88,13 +94,13 @@ Licenses
 Interests/Hobbies
 -----------------
 
-- **Current Learning** : Parkour, English pronunciation with ELSA Speak
+- **Current Learning** : Parkour, English speaking with ELSA Speak
 - **Self-defense** : Aikido practice
 - **Play Guitar** : Basic chord strumming for socializing and self-calming
-- **Traveling** : Waterfall, Onsen/Hot spring, Skateboarding/Snowboarding
 - **Reading** : Business, Investment, Economic behavior, Psychology
-- **Gaming** : 5-vs-5 (ROV is the most popular in Thailand), Monster Hunter
+- **Gaming** : Monster Hunter, Elden Ring
 - **Movies/Series** : Sci-fi, Action, Comedy, Criminal
+- **Traveling** : Waterfall, Onsen/Hot spring, Skateboarding/Snowboarding
 
 Related projects
 ----------------
@@ -108,7 +114,7 @@ Related projects
     In this hackathon event, we use ML techniques to translate sign-language to text and vice versa for reduce gap of communication between deaf and normal people. And represent this ML as Line chatbot for easy accessibility.
 
   - **MDU (MFEC Document Understanding)\
-    *Published at Google Cloud Summit 2019***
+    *Published at Google Cloud Summit 2019 / Google DevFest Bangkok***
 
     This project aims to show and prove ways to convert documents (Docs, PDF, Image, Scanned documents) through pipelines with various ML and AI to categorize, extract specific data, plug them with custom ML model to scoring extracted data and make some actions, such as sending mail or indexing.
 
