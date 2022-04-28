@@ -6,7 +6,7 @@ Warot Makarananda (Mai)
 ----
 
 > **Data Engineer** using **AI/ML**\
-> Specialties: Python, SQL, GCP, Databricks
+> Specialties : Python, SQL, GCP, Databricks
 
 ----
 
@@ -18,6 +18,26 @@ I'm Data Engineer using AI/ML aiming to automate all-exist repetitive tasks in o
 Applying technologies to solve unnatural data-related problems with limited time and resources is my expertise.
 
 Python programming, Google Cloud Platform, Architecture design and Software/Service evaluation are my outstanding skills.
+
+Key skills
+----------
+
+- **Programming** : Python, SQL, PySpark
+  - Data Manipulation : Pandas
+  - Data Visualization : Plotly, Matplotlib, Seaborn
+  - Machine Learning : Sklearn, Skimage, SparkML, mlFlow
+  - Web Scraping / Web Automation : Scrapy, Selenium
+  - Pipeline : Airflow, Dagster
+  - Web Application : Dash
+- **Cloud** : Google Cloud Platform (GCP), Azure
+- **Data Warehouse** : BigQuery, Databricks
+- **Data / ML Tools** : Alteryx, PowerBI
+
+Languages
+---------
+
+- **Thai** : Native speaker
+- **English** : IELTS 6.5 (Listening 7.5, Reading 6.5, Writing 5.5, Speaking 6.0)
 
 Career history
 --------------
@@ -44,21 +64,6 @@ from National Institute of Development Administration* (Bangkok, Thailand).
 - Graduated 2011
 :   ***Bachelor of Computer Engineering**\
 from Kasetsart University* (Bangkok, Thailand)
-
-Fluent skills
--------------
-
-- **Programming** : Python, SQL, PySpark
-- **Cloud** : Google Cloud Platform, Azure
-- **Data pipeline** : Airflow, Dagster
-- **Data warehouse** : BigQuery, Databricks
-- **Data/ML Tools** : Alteryx, Orange ML
-
-Langauges
----------
-
-- **Thai** : Native speaker
-- **English** : IELTS 6.5 (Listening 7.5, Reading 6.5, Writing 5.5, Speaking 6.0)
 
 Licenses
 --------
@@ -139,7 +144,7 @@ Related projects
   - **SCG** : Supervised learning crash course
   - **Banpu** : Azure Synapse workshop
 
-- Speaking
+- Educational sharing
   - **Tree learning** : Introduction to Machine Learning with Orange ML
   - **BUU** : Introduction to AI & ML
   - **SPU** : What can AI do? And how will AI affect accountants?
