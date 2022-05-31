@@ -6,7 +6,7 @@ Warot Makarananda (Mai)
 ----
 
 > **Data Engineer** using **AI/ML**\
-> Specialties : Python, SQL, GCP, Databricks
+> Specialties : Python, PySpark, SQL, GCP, Databricks
 
 ----
 
@@ -19,11 +19,22 @@ Applying technologies to solve unnatural data-related problems with limited time
 
 Python programming, Google Cloud Platform, Architecture design and Software/Service evaluation are my outstanding skills.
 
-Key skills
-----------
+Career Objective
+----------------
 
-- **Programming** : Python, SQL, PySpark
-  - Data Manipulation : Pandas
+I'm going to improve my English skills by studying an evening-session General English at Adelaide for six months. So, I hope I could find a company provided a part-time jobs to learn more about how amazing Australian working culture is.
+
+If you think my skills are usable for your team in some way, don't hesitate to contact me for further cooperation.
+
+Looking forward to here from you. I am very exciting for the incoming adventure.
+
+Currently, I am holding Student visa (subclass 500) valid until 16 January 2023.
+
+Key Skill Summary
+-----------------
+
+- **Programming** : Python, PySpark, SQL
+  - Data Manipulation : Pandas, Dask
   - Data Visualization : Plotly, Matplotlib, Seaborn
   - Machine Learning : Sklearn, Skimage, SparkML, mlFlow
   - Web Scraping / Web Automation : Scrapy, Selenium
@@ -32,27 +43,10 @@ Key skills
 - **Cloud** : Google Cloud Platform (GCP), Azure
 - **Data Warehouse** : BigQuery, Databricks
 - **Data / ML Tools** : Alteryx, PowerBI
-
-Languages
----------
-
-- **Thai** : Native speaker
-- **English** : IELTS 6.5 (Listening 7.5, Reading 6.5, Writing 5.5, Speaking 6.0)
-
-Career history
---------------
-
-- Oct 2018 - Present
-:   ***Senior Data Driven Insights Analyst**\
-at [MFEC Public Company Limited](https://www.mfec.co.th/)* (Bangkok, Thailand).
-
-    As team’s researching unit. Responsible for architecture evaluation, new technology/tools exploration, machine learning related consulting/training, proof-of-concept implementation and quick-win solution providing.
-
-- Dec 2017 - Sep 2018
-:   ***Data Scientist**\
-at [Data Café Company (MFEC's subsidiary)](https://datacafethailand.com/)* (Bangkok, Thailand).
-
-    Do Business Analytics, research and develop new Data-products and prepare sale/marketing tools.
+- **Operating System** : MS Windows, Linux (Debian/Arch)
+- **Languages**
+  - Thai : Native speaker
+  - English : IELTS 6.5 (Listening 7.5, Reading 6.5, Writing 5.5, Speaking 6.0)
 
 Education
 ---------
@@ -64,6 +58,21 @@ from National Institute of Development Administration* (Bangkok, Thailand).
 - Graduated 2011
 :   ***Bachelor of Computer Engineering**\
 from Kasetsart University* (Bangkok, Thailand)
+
+Experiences
+-----------
+
+- Oct 2018 - May 2022
+:   ***Senior Data Driven Insights Analyst**\
+at [MFEC Public Company Limited](https://www.mfec.co.th/)* (Bangkok, Thailand).
+
+    As team’s researching unit. Responsible for architecture evaluation, new technology/tools exploration, machine learning related consulting/training, proof-of-concept implementation and quick-win solution providing.
+
+- Dec 2017 - Sep 2018
+:   ***Data Scientist**\
+at [Data Café Company (MFEC's subsidiary)](https://datacafethailand.com/)* (Bangkok, Thailand).
+
+    Do Business Analytics, research and develop new Data-products and prepare sale/marketing tools.
 
 Licenses
 --------
@@ -96,19 +105,11 @@ Licenses
     *Issued by Google Cloud Platform Certified*
     (Nov 2019 - Nov 2021)
 
-Interests/Hobbies
+Award and Recognition
+---------------------
+
+Previous Projects
 -----------------
-
-- **Current Learning** : Parkour, English speaking with ELSA Speak
-- **Self-defense** : Aikido practice
-- **Play Guitar** : Basic chord strumming for socializing and self-calming
-- **Reading** : Business, Investment, Economic behavior, Psychology
-- **Gaming** : Monster Hunter, Elden Ring
-- **Movies/Series** : Sci-fi, Action, Comedy, Criminal
-- **Traveling** : Waterfall, Onsen/Hot spring, Skateboarding/Snowboarding
-
-Related projects
-----------------
 
 *Due to customer/company’s data protection policies, on-site and unpublished in-house projects are not described here.*
 
@@ -151,6 +152,17 @@ Related projects
   - **DPU** : How to train Data Scientist?
   - **ABAC** : How to train Data Scientist?
   - **Mahidol ICT** : Python Stories
+
+Hobby and Interest
+------------------
+
+- **Current Interest** : Parkour, Cyber Security
+- **Self-defense** : Aikido practice
+- **Play Guitar** : Basic chord strumming for socializing and self-calming
+- **Reading** : Business, Investment, Economic Behavior, Psychology
+- **Gaming** : Monster Hunter, Elden Ring
+- **Movies/Series** : Sci-fi, Action, Comedy, Criminal
+- **Traveling** : Parks, Museum, Waterfall, Hot spring, Skateboarding/Snowboarding
 
 ----
 
