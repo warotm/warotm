@@ -1,7 +1,7 @@
 Warot Makarananda (Mai)
 =======================
 
-<warotm@gmail.com> • +66 8 5916 0878 • Bangkok, Thailand
+<warotm@gmail.com> • +66 8 5916 0878 • Bangkok, Thailand • Adelaide, South Australia
 
 ----
 
@@ -166,4 +166,4 @@ Hobby and Interest
 
 ----
 
-> <warotm@gmail.com> • +66 8 5916 0878 • Bangkok, Thailand
+> <warotm@gmail.com> • +66 8 5916 0878 • Bangkok, Thailand • Adelaide, South Australia
