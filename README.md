@@ -167,4 +167,4 @@ Hobby and Interest
 ----
 
 > <warotm@gmail.com> • +66 8 5916 0878 • Bangkok, Thailand • Adelaide, South Australia\
-> https://github.com/warotm | https://www.linkedin.com/in/warotm/
+> [github.com/warotm](https://github.com/warotm) | [linkedin.com/in/warotm](https://www.linkedin.com/in/warotm/)
