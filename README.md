@@ -1,7 +1,7 @@
 Warot Makarananda (Mai)
 =======================
 
-<warotm@gmail.com> • +66 8 5916 0878 • Bangkok, Thailand • Adelaide, South Australia
+<warotm@gmail.com> • (AUS) +61 4 8032 6242 • North Terrace, Adelaide, South Australia
 
 ----
 
@@ -19,16 +19,16 @@ Applying technologies to solve unnatural data-related problems with limited time
 
 Python programming, Google Cloud Platform, Architecture design and Software/Service evaluation are my outstanding skills.
 
-Career Objective
+Current Career Objective
 ----------------
 
-I'm going to improve my English skills by studying an evening-session General English at Adelaide for six months. So, I hope I could find a company provided a part-time jobs to learn more about how amazing Australian working culture is.
+I'm studying an General English at Adelaide in the evening for six months. So, I hope I could find a casual/part-time jobs to teach me more about how Australian working cultures are.
 
-If you think my skills are usable for your team in some way, don't hesitate to contact me for further cooperation.
+If you think my skills are usable for your team in some way, don't hesitate to contact me.
 
 Looking forward to here from you. I am very exciting for the incoming adventure.
 
-Currently, I am holding Student visa (subclass 500) valid until 16 January 2023.
+Currently, I am holding Student visa (subclass 500) which valid through 16 January 2023.
 
 Key Skill Summary
 -----------------
@@ -166,5 +166,5 @@ Hobby and Interest
 
 ----
 
-> <warotm@gmail.com> • +66 8 5916 0878 • Bangkok, Thailand • Adelaide, South Australia\
+> <warotm@gmail.com> • (AUS) +61 4 8032 6242 • North Terrace, Adelaide, South Australia\
 > [github.com/warotm](https://github.com/warotm) | [linkedin.com/in/warotm](https://www.linkedin.com/in/warotm/)
