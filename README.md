@@ -19,21 +19,19 @@ Applying technologies to solve unnatural data-related problems with limited time
 
 Python programming, Google Cloud Platform, Architecture design and Software/Service evaluation are my outstanding skills.
 
-Current Career Objective
+Career Objective
 ----------------
 
-I'm studying an General English at Adelaide in the evening for six months. So, I hope I could find a casual/part-time jobs to teach me more about how Australian working cultures are.
+I'm very new to Australian working cultures. So, I'm looking forward to find an interesting position to learn them at here, Adelaide. 
 
-If you think my skills are usable for your team in some way, don't hesitate to contact me.
+If you think my skills are usable for your team in some ways, don't hesitate to contact me.
 
-Looking forward to here from you. I am very exciting for the incoming adventure.
-
-Currently, I am holding Student visa (subclass 500) which valid through 16 January 2023.
+Currently, I'm studying an General English, to further improve my communication skills, in the evening for six months and holding student visa (subclass 500) which valid through 16 January 2023.
 
 Key Skill Summary
 -----------------
 
-- **Programming** : Python, PySpark, SQL
+- **Programming** : Python, PySpark, SQL, RegEx
   - Data Manipulation : Pandas, Dask
   - Data Visualization : Plotly, Matplotlib, Seaborn
   - Machine Learning : Sklearn, Skimage, SparkML, mlFlow
@@ -47,6 +45,8 @@ Key Skill Summary
 - **Languages**
   - Thai : Native speaker
   - English : IELTS 6.5 (Listening 7.5, Reading 6.5, Writing 5.5, Speaking 6.0)
+
+<div style="page-break-after: always;"></div>
 
 Education
 ---------
@@ -105,6 +105,8 @@ Licenses
     *Issued by Google Cloud Platform Certified*
     (Nov 2019 - Nov 2021)
 
+<div style="page-break-after: always;"></div>
+
 Award and Recognition
 ---------------------
 
@@ -123,6 +125,7 @@ Previous Projects
     *Published at Google Cloud Summit 2019 / Google DevFest Bangkok***
 
     This project aims to show and prove ways to convert documents (Docs, PDF, Image, Scanned documents) through pipelines with various ML and AI to categorize, extract specific data, plug them with custom ML model to scoring extracted data and make some actions, such as sending mail or indexing.
+    [view presentation deck](https://docs.google.com/presentation/d/1AyX0wY6w7iMr1NBsTKs9DBoXmAXy6UTqSKS0EGAtE_M/edit?usp=sharing)
 
 - Internal training
   - **ExAcademy ExAData**
