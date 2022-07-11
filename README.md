@@ -13,16 +13,14 @@ Warot Makarananda (Mai)
 Introduction
 ------------
 
-I'm Data Engineer using AI/ML aiming to automate all-exist repetitive tasks in order to save humanities from boredom.
+I'm Data Engineer who use artificial intelligence and machine learning to automate and enhance various data-related tasks in ETL process.
 
-Applying technologies to solve unnatural data-related problems with limited time and resources is my expertise.
-
-Python programming, Google Cloud Platform, Architecture design and Software/Service evaluation are my outstanding skills.
+Python programming, Google Cloud Platform architecture design and understanding in both technical and business terms are my outstanding skills.
 
 Career Objective
 ----------------
 
-I'm very new to Australian working cultures. So, I'm looking forward to find an interesting position to learn them at here, Adelaide. 
+I'm new to Australian working cultures. So, I'm looking forward to find an interesting position to learn them at here, Adelaide. 
 
 If you think my skills are usable for your team in some ways, don't hesitate to contact me.
 
@@ -34,7 +32,7 @@ Key Skill Summary
 - **Programming** : Python, PySpark, SQL, RegEx
   - Data Manipulation : Pandas, Dask
   - Data Visualization : Plotly, Matplotlib, Seaborn
-  - Machine Learning : Sklearn, Skimage, SparkML, mlFlow
+  - Machine Learning : Sklearn, SparkML, mlFlow, PyTorch, TensorFlow-Keras
   - Web Scraping / Web Automation : Scrapy, Selenium
   - Pipeline : Airflow, Dagster
   - Web Application : Dash
@@ -44,18 +42,18 @@ Key Skill Summary
 - **Operating System** : MS Windows, Linux (Debian/Arch)
 - **Languages**
   - Thai : Native speaker
-  - English : IELTS 6.5 (Listening 7.5, Reading 6.5, Writing 5.5, Speaking 6.0)
+  - English : IELTS 6.5
 
 <div style="page-break-after: always;"></div>
 
 Education
 ---------
 
-- Graduated 2014
+- Aug 2012 - Sep 2014
 :   ***Master of Business Administration**\
 from National Institute of Development Administration* (Bangkok, Thailand).
 
-- Graduated 2011
+- Jun 2007 - Mar 2011
 :   ***Bachelor of Computer Engineering**\
 from Kasetsart University* (Bangkok, Thailand)
 
@@ -66,10 +64,10 @@ Experiences
 :   ***Senior Data Driven Insights Analyst**\
 at [MFEC Public Company Limited](https://www.mfec.co.th/)* (Bangkok, Thailand).
 
-    As team’s researching unit. Responsible for architecture evaluation, new technology/tools exploration, machine learning related consulting/training, proof-of-concept implementation and quick-win solution providing.
+    As a team’s senior member, I was responsible for architecture evaluation, new technology/tools exploration, machine learning related consulting/training, proof-of-concept implementation and quick-win solution providing.
 
 - Dec 2017 - Sep 2018
-:   ***Data Scientist**\
+:   ***Data Scientist / Business Development**\
 at [Data Café Company (MFEC's subsidiary)](https://datacafethailand.com/)* (Bangkok, Thailand).
 
     Do Business Analytics, research and develop new Data-products and prepare sale/marketing tools.
@@ -95,11 +93,11 @@ Licenses
 
 - [Alteryx Advanced Certified](https://s3.us-east-2.amazonaws.com/ayx.certificates/20190726_AlterxDesignerAdvanced0TPn5UeR0Tw8GRaxmTFmb1clW5FUtmWlVdOdlWrBHVUhGbt9ENJpnT.pdf)\
     *Issued by Alteryx*
-    (Expired Jul 2021)
+    (Jul 2019 - Jul 2021)
 
 - [Google Cloud Certified - Professional Cloud Engineer](https://www.credential.net/22ecaff3-6f9a-44c8-a1f6-634d7cfab919)\
     *Issued by Google Cloud Platform Certified*
-    (Expired Apr 2020)
+    (Apr 2018 - Apr 2020)
 
 - [Google Cloud Certified - Professional Cloud Architect](https://www.credential.net/ad768d5a-4abd-4e87-9afd-69e19c97a652)\
     *Issued by Google Cloud Platform Certified*
@@ -107,38 +105,38 @@ Licenses
 
 <div style="page-break-after: always;"></div>
 
-Award and Recognition
----------------------
-
-Previous Projects
------------------
-
-*Due to customer/company’s data protection policies, on-site and unpublished in-house projects are not described here.*
-
-- Published Internal project
+Recognition
+-----------
   - **Sign-language translator chatbot\
     *Microsoft AI for Accessibility Hackathon 2019***
 
-    In this hackathon event, we use ML techniques to translate sign-language to text and vice versa for reduce gap of communication between deaf and normal people. And represent this ML as Line chatbot for easy accessibility.
+    The 1st rank of national round. In this hackathon event, we used ML techniques to translate sign-language to text and vice versa to reduce gap of communication between people with hearing problem and other. And represented this machine learning model as Line chatbot for easy user interfacing.
 
   - **MDU (MFEC Document Understanding)\
     *Published at Google Cloud Summit 2019 / Google DevFest Bangkok***
 
-    This project aims to show and prove ways to convert documents (Docs, PDF, Image, Scanned documents) through pipelines with various ML and AI to categorize, extract specific data, plug them with custom ML model to scoring extracted data and make some actions, such as sending mail or indexing.
+    This project aimed to show and prove a concept to convert human-resource-related documents (Docs, PDF, Image, Scanned documents) through pipelines with various pre-trained machine learning models and serverless functions of Google Cloud Platform to categorize, extract specific data, connected them with custom model to scoring extracted data and make some actions, such as sending mail, indexing and visualizing.
+
     [view presentation deck](https://docs.google.com/presentation/d/1AyX0wY6w7iMr1NBsTKs9DBoXmAXy6UTqSKS0EGAtE_M/edit?usp=sharing)
+
+
+Previous Projects
+-----------------
+
+*According to customer/company’s data protection policies, unpublished projects are not described here.*
 
 - Internal training
   - **ExAcademy ExAData**
 
-    The program that we train 20-30 years old people to become data engineers. I was DataAnalytics101-AL/ML topic’s trainer and final project mentor.
+    The program that we trained 20-30 years old people to become data engineers. I was DataAnalytics101-AL/ML topic’s trainer and final project mentor.
 
   - **Data Café Analytic Trainee**
 
-    The program that we train undergrad interns to do data science things. Web scraping, SQL, Visualization, Classification model, Object detection.
+    The program that we trained undergrad interns to do data science things. Such as web scraping, Python and SQL programming, data visualization, classification model training and object detection.
 
   - **Alteryx Series**
 
-    3 weeks series to introduce Alteryx as ETL and ML tool in order to achieve team-wide Alteryx Designer Core/Advanced certifications.
+    Training on Alteryx as ETL and ML tool in order to achieve team-wide Alteryx Designer Core/Advanced certifications.
 
 - External training
   - **Microsoft TH** : Analytics in a Day Workshop
@@ -147,6 +145,8 @@ Previous Projects
   - **SCG** : SQL + Google BigQuery
   - **SCG** : Supervised learning crash course
   - **Banpu** : Azure Synapse workshop
+
+<div style="page-break-after: always;"></div>
 
 - Educational sharing
   - **Tree learning** : Introduction to Machine Learning with Orange ML
