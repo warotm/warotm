@@ -1,35 +1,39 @@
 Warot Makarananda (Mai)
 =======================
 
-<warotm@gmail.com> • (AUS) +61 4 8032 6242 • North Terrace, Adelaide, South Australia
+Current location : Bangkok, Thailand\
+<warotm@gmail.com> • (THA) +66 8 5916 0878 • ~~(AUS) +61 4 8032 6242~~\
+[github.com/warotm](https://github.com/warotm) • [linkedin.com/in/warotm](https://www.linkedin.com/in/warotm/)
 
 ----
 
 > **Data Engineer** using **AI/ML**\
-> Specialties : Python, PySpark, SQL, GCP, Databricks
+> Specialties : Python, PySpark, SQL, GCP, Databricks, Alteryx
 
 ----
 
 Introduction
 ------------
 
-I'm Data Engineer who use artificial intelligence and machine learning to automate and enhance various data-related tasks in ETL process.
+I consider myself as a Data Engineer who also have knowledge about artificial intelligence and machine learning to automate and enhance various data-related tasks.
 
-Python programming, Google Cloud Platform architecture design and understanding in both technical and business terms are my outstanding skills.
+My background is related with both technical and managerial world, and because of that, it allow me to understand and communicate with both developers and business users in aspect of their terms and views.
+
+I always love to share my experiences to followed generations, so please do not hesitate contacting me about things I could help.
 
 Career Objective
 ----------------
 
-I'm new to Australian working cultures. So, I'm looking forward to find an interesting position to learn them at here, Adelaide. 
+I dream of having adventurous life around the world. To accomplish that dream, I aim for having a kind of career that let me work from anywhere with flexible working hours.
 
-If you think my skills are usable for your team in some ways, don't hesitate to contact me.
+As an engineer in my blood, I like to optimize things, make them as efficient and automatic as possible.
 
-Currently, I'm studying an General English, to further improve my communication skills, in the evening for six months and holding student visa (subclass 500) which valid through 16 January 2023.
+Learning new things is also my favorite way to keep me having fun and sane while working. I used to love learning about technological stuffs, but now I think its time to learn more about people.
 
 Key Skill Summary
 -----------------
 
-- **Programming** : Python, PySpark, SQL, RegEx
+- **Programming** : Python, PySpark, SQL, RegEx, C
   - Data Manipulation : Pandas, Dask
   - Data Visualization : Plotly, Matplotlib, Seaborn
   - Machine Learning : Sklearn, SparkML, mlFlow, PyTorch, TensorFlow-Keras
@@ -42,7 +46,7 @@ Key Skill Summary
 - **Operating System** : MS Windows, Linux (Debian/Arch)
 - **Languages**
   - Thai : Native speaker
-  - English : IELTS 6.5
+  - English : IELTS 6.5 (Test taken on 2022)
 
 <div style="page-break-after: always;"></div>
 
@@ -54,23 +58,35 @@ Education
 from National Institute of Development Administration* (Bangkok, Thailand).
 
 - Jun 2007 - Mar 2011
-:   ***Bachelor of Computer Engineering**\
-from Kasetsart University* (Bangkok, Thailand)
+:   ***Bachelor of Computer Engineering (Second-class honors)**\
+from Kasetsart University* (Bangkok, Thailand).
 
-Experiences
------------
+- Jul 2022 - Jan 2023
+:   ***English Academic Purposes Program (Ending level of A1)**\
+at ILSC* (Adelaide, SA, Australia).
+
+IT-related experiences
+----------------------
+
+- Nov 2022 - Dec 2022
+:  ***Pisciner**\
+at [42 Adelaide](https://www.42adel.org.au/)* (Adelaide, SA, Australia).
+
+    "The Piscine is an intensive 4-week Bootcamp where you learn coding, teamwork, and about 42." - stated by 42 Adelaide
+
+    As I had an opportunity to take a break and learn English at Australia, except from regaining my skill in C programming language, attending the piscine at this school was the most productive way to practice my English in IT industry because it required tons of peer evaluations and peer training to keep yourself and your friends going forward.
 
 - Oct 2018 - May 2022
 :   ***Senior Data Driven Insights Analyst**\
 at [MFEC Public Company Limited](https://www.mfec.co.th/)* (Bangkok, Thailand).
 
-    As a team’s senior member, I was responsible for architecture evaluation, new technology/tools exploration, machine learning related consulting/training, proof-of-concept implementation and quick-win solution providing.
+    Except for daily Data Engineering tasks, such as designing and coding ETL processes on various cloud platforms, I usually was given special assignments about new-technology explorations and evaluations, machine-learning-related consultations and trainings, and proof-of-concept-and-quick-win-solution implementations.
 
 - Dec 2017 - Sep 2018
 :   ***Data Scientist / Business Development**\
 at [Data Café Company (MFEC's subsidiary)](https://datacafethailand.com/)* (Bangkok, Thailand).
 
-    Do Business Analytics, research and develop new Data-products and prepare sale/marketing tools.
+    As a very first employee of the company, my works here were about researching and developing new data-related products, preparing sale-and-marketing tools, supporting training events of the founders, and commencing first-stage data analytics with various customers.
 
 Licenses
 --------
@@ -110,7 +126,7 @@ Recognition
   - **Sign-language translator chatbot\
     *Microsoft AI for Accessibility Hackathon 2019***
 
-    The 1st rank of national round. In this hackathon event, we used ML techniques to translate sign-language to text and vice versa to reduce gap of communication between people with hearing problem and other. And represented this machine learning model as Line chatbot for easy user interfacing.
+    1st rank of national round was achieved. In this hackathon event, we used ML techniques to translate sign-language to text and vice versa to reduce gap of communication between people with hearing problem and other as Line chatbot for easy user interfacing.
 
   - **MDU (MFEC Document Understanding)\
     *Published at Google Cloud Summit 2019 / Google DevFest Bangkok***
@@ -128,15 +144,15 @@ Previous Projects
 - Internal training
   - **ExAcademy ExAData**
 
-    The program that we trained 20-30 years old people to become data engineers. I was DataAnalytics101-AL/ML topic’s trainer and final project mentor.
+    In this programme, MFEC team trained 20-30 years old people to become data engineers. I contributed as a DataAnalytics101-AL/ML topic’s trainer and a final project mentor.
 
   - **Data Café Analytic Trainee**
 
-    The program that we trained undergrad interns to do data science things. Such as web scraping, Python and SQL programming, data visualization, classification model training and object detection.
+    In this programme, we trained no experienced undergrad interns to do data science things. Such as web scraping, Python and SQL programming, data visualization, classification model training and object detection.
 
   - **Alteryx Series**
 
-    Training on Alteryx as ETL and ML tool in order to achieve team-wide Alteryx Designer Core/Advanced certifications.
+    I was assigned to train the "Alteryx as ETL and ML tool" topics in order to enable team-wide Alteryx Designer Core/Advanced certifications.
 
 - External training
   - **Microsoft TH** : Analytics in a Day Workshop
@@ -145,8 +161,6 @@ Previous Projects
   - **SCG** : SQL + Google BigQuery
   - **SCG** : Supervised learning crash course
   - **Banpu** : Azure Synapse workshop
-
-<div style="page-break-after: always;"></div>
 
 - Educational sharing
   - **Tree learning** : Introduction to Machine Learning with Orange ML
@@ -159,15 +173,10 @@ Previous Projects
 Hobby and Interest
 ------------------
 
-- **Current Interest** : Parkour, Cyber Security
+- **Current Interest** : Parkour/Free running, Cyber Security, Coffee making
 - **Self-defense** : Aikido practice
 - **Play Guitar** : Basic chord strumming for socializing and self-calming
 - **Reading** : Business, Investment, Economic Behavior, Psychology
 - **Gaming** : Monster Hunter, Elden Ring
-- **Movies/Series** : Sci-fi, Action, Comedy, Criminal
-- **Traveling** : Parks, Museum, Waterfall, Hot spring, Skateboarding/Snowboarding
-
-----
-
-> <warotm@gmail.com> • (AUS) +61 4 8032 6242 • North Terrace, Adelaide, South Australia\
-> [github.com/warotm](https://github.com/warotm) | [linkedin.com/in/warotm](https://www.linkedin.com/in/warotm/)
+- **Movies/Series** : Sci-fi, Action, Comedy, Documentary
+- **Traveling** : Parks, Museum, Beach, Waterfall, Hot spring, Skateboarding/Snowboarding
