@@ -46,7 +46,7 @@ Key Skill Summary
 - **Operating System** : MS Windows, Linux (Debian/Arch)
 - **Languages**
   - Thai : Native speaker
-  - English : IELTS 6.5 (Test taken on 2022)
+  - English : IELTS 6.5 (taken on 2022), TOEIC 800 (taken on 2014)
 
 <div style="page-break-after: always;"></div>
 
@@ -54,11 +54,11 @@ Education
 ---------
 
 - Aug 2012 - Sep 2014
-:   ***Master of Business Administration**\
+:   ***Master of Business Administration (Dual majors in Marketing and Operations Management)**\
 from National Institute of Development Administration* (Bangkok, Thailand).
 
 - Jun 2007 - Mar 2011
-:   ***Bachelor of Computer Engineering (Second-class honors)**\
+:   ***Bachelor of Engineering (Computer engineering with second-class honors)**\
 from Kasetsart University* (Bangkok, Thailand).
 
 - Jul 2022 - Jan 2023
@@ -72,7 +72,7 @@ IT-related experiences
 :  ***Pisciner**\
 at [42 Adelaide](https://www.42adel.org.au/)* (Adelaide, SA, Australia).
 
-    "The Piscine is an intensive 4-week Bootcamp where you learn coding, teamwork, and about 42." - stated by 42 Adelaide
+    *"The Piscine is an intensive 4-week Bootcamp where you learn coding, teamwork, and about 42." - stated by 42 Adelaide*
 
     As I had an opportunity to take a break and learn English at Australia, except from regaining my skill in C programming language, attending the piscine at this school was the most productive way to practice my English in IT industry because it required tons of peer evaluations and peer training to keep yourself and your friends going forward.
 
@@ -170,10 +170,50 @@ Previous Projects
   - **ABAC** : How to train Data Scientist?
   - **Mahidol ICT** : Python Stories
 
+Other experiences
+-----------------
+
+- Jul 2022 - Jan 2023
+:  ***Receptionist (Casual)**\
+at Siam Retreat Massage* (Adelaide, SA, Australia).
+
+  * Providing excellent customer service as a front line of the store
+  * Answering phones and doing bookings
+  * Resolving customer complaints
+  * POS, Cash handling
+  * Managing timetables of therapists with constraints, such as a number of available therapists and types of rooms 
+  * Assisting in day-to-day operations of the business, such as store opening, laundry and room preparation
+  * Ordering and maintaining massage supplies
+
+- Sep 2022 - Jan 2023
+:  ***Massage Therapist (Casual)**\
+at All Time Massage* (Adelaide, SA, Australia).
+
+  * Providing excellent customer service with various of massages with oil and without oil
+  * POS / HICAP claiming
+  * Answering phones and doing bookings
+  * Other operations, such as store opening and room preparation
+
+- Sep 2022 - Nov 2022
+:  ***Food Runner (Casual)**\
+at Bangkok Boulevard* (Adelaide, SA, Australia).
+
+  * Providing as fast as possible food delivery from screen to customers' tables
+  * Table clearing and preparing
+  * Cutleries management
+
+- Mar 2017 - Jun 2017
+:  ***Sales Representative**\
+at Fuji Xerox* (Bangkok, Thailand).
+
+- Feb 2016 - Jul 2016
+:  ***Assistant Relationship Manager**\
+at Kasikorn Bank* (Bangkok, Thailand).
+
 Hobby and Interest
 ------------------
 
-- **Current Interest** : Parkour/Free running, Cyber Security, Coffee making
+- **Current Interest** : Parkour/Free running, Cyber security, Coffee making
 - **Self-defense** : Aikido practice
 - **Play Guitar** : Basic chord strumming for socializing and self-calming
 - **Reading** : Business, Investment, Economic Behavior, Psychology
