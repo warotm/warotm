@@ -3,8 +3,8 @@ Warot Makarananda (Mai)
 
 Current Location : Adelaide, Australia\
 Email : <warotm@gmail.com>\
-Phone : (+61) 0480 326 242
-GitHub : [github.com/warotm](https://github.com/warotm)
+Phone : (+61) 0480 326 242\
+GitHub : [github.com/warotm](https://github.com/warotm)\
 LinkedIn : [linkedin.com/in/warotm](https://www.linkedin.com/in/warotm/)
 
 ----
@@ -36,19 +36,19 @@ Key Skill Summary
 -----------------
 
 - **Programming** : Python, PySpark, SQL, RegEx, C
-  - Data Manipulation : Pandas, Dask
-  - Data Visualisation : Plotly, Matplotlib, Seaborn
-  - Machine Learning : Sklearn, SparkML, mlFlow, PyTorch, TensorFlow-Keras
-  - Web Scraping / Web Automation : Scrapy, Selenium
-  - Pipeline : Airflow, Dagster
-  - Web Application : Dash
+  - Data Manipulation : Pandas, Dask
+  - Data Visualisation : Plotly, Matplotlib, Seaborn
+  - Machine Learning : Sklearn, SparkML, mlFlow, PyTorch, TensorFlow-Keras
+  - Web Scraping / Web Automation : Scrapy, Selenium
+  - Pipeline : Airflow, Dagster
+  - Web Application : Dash
 - **Cloud** : Google Cloud Platform (GCP), Microsoft Azure
 - **Data Warehouse** : BigQuery, Databricks
 - **Data / ML Tools** : Alteryx, PowerBI
 - **Operating System** : MS Windows, Linux (Debian/Arch)
 - **Languages**
-  - English : IELTS 6.5 (taken on 2022)
-  - Thai : Native speaker
+  - English : IELTS 6.5 (taken on 2022)
+  - Thai : Native speaker
 
 Education
 ---------
@@ -69,7 +69,7 @@ at ILSC* (Adelaide, SA, Australia).
 :  ***Pisciner**\
 at [42 Adelaide](https://www.42adel.org.au/)* (Adelaide, SA, Australia).
 
-  - The Piscine is an intensive 4-week Bootcamp focused on coding, teamwork, and personal growth.
+  - The Piscine is an intensive 4-week Bootcamp focused on coding, teamwork, and personal growth.
 
 IT-related experiences
 ----------------------
@@ -78,17 +78,17 @@ IT-related experiences
 :   ***Senior Data Driven Insights Analyst**\
 at [MFEC Public Company Limited](https://www.mfec.co.th/)* (Bangkok, Thailand).
 
-  - Led Data Engineering tasks, including designing and coding ETL processes on various cloud platforms.
-  - Conducted new-technology explorations, machine-learning-related consultations, and trainings.
-  - Implemented proof-of-concept and quick-win solutions.
+  - Led Data Engineering tasks, including designing and coding ETL processes on various cloud platforms.
+  - Conducted new-technology explorations, machine-learning-related consultations, and trainings.
+  - Implemented proof-of-concept and quick-win solutions.
 
 - Dec 2017 - Sep 2018
 :   ***Data Scientist / Business Development**\
 at [Data Café Company (MFEC's subsidiary)](https://datacafethailand.com/)* (Bangkok, Thailand).
 
-  - Researched and developed new data-related products.
-  - Prepared sales and marketing tools.
-  - Supported training events and initiated data analytics with customers.
+  - Researched and developed new data-related products.
+  - Prepared sales and marketing tools.
+  - Supported training events and initiated data analytics with customers.
 
 Licenses
 --------
@@ -127,15 +127,13 @@ Recognition
 - **Sign-language translator chatbot\
     *Microsoft AI for Accessibility Hackathon 2019***
 
-  - Achieved 1st rank in the national round.
-  - Developed an ML-based chatbot to translate sign language to text, enhancing communication for people with hearing impairments.
+  - Achieved 1st rank in the national round.
+  - Developed an ML-based chatbot to translate sign language to text, enhancing communication for people with hearing impairments.
 
 - **MDU (MFEC Document Understanding)\
     *Published at Google Cloud Summit 2019 / Google DevFest Bangkok***
 
-  - Demonstrated the concept of converting human-resource-related documents using pre-trained ML models and serverless functions on Google Cloud Platform.
-
-    [view presentation deck](https://docs.google.com/presentation/d/1AyX0wY6w7iMr1NBsTKs9DBoXmAXy6UTqSKS0EGAtE_M/edit?usp=sharing)
+  - Demonstrated the concept of converting human-resource-related documents using pre-trained ML models and serverless functions on Google Cloud Platform. [view presentation deck](https://docs.google.com/presentation/d/1AyX0wY6w7iMr1NBsTKs9DBoXmAXy6UTqSKS0EGAtE_M/edit?usp=sharing)
 
 Previous Projects
 -----------------
@@ -143,20 +141,20 @@ Previous Projects
 *According to customer/company’s data protection policies, unpublished projects are not described here.*
 
 - Internal training
-  - **ExAcademy ExAData**
-    - Trained individuals to become data engineers, acted as a DataAnalytics101-AL/ML topic trainer, and mentored final projects.
+  - **ExAcademy ExAData**
+    - Trained individuals to become data engineers, acted as a DataAnalytics101-AL/ML topic trainer, and mentored final projects.
 
-  - **Data Café Analytic Trainee**
-    - Trained inexperienced interns in data science tasks, including web scraping, Python and SQL programming, data visualisation, and ML model training.
+  - **Data Café Analytic Trainee**
+    - Trained inexperienced interns in data science tasks, including web scraping, Python and SQL programming, data visualisation, and ML model training.
 
-  - **Alteryx Series**
-    - Trained the team on "Alteryx as ETL and ML tool" to enable Alteryx Designer Core/Advanced certifications.
+  - **Alteryx Series**
+    - Trained the team on "Alteryx as ETL and ML tool" to enable Alteryx Designer Core/Advanced certifications.
 
 - External training
-  - Conducted workshops for Microsoft TH, PTTEP, KTC, SCG, Banpu on various topics related to analytics, Alteryx, SQL, and cloud platforms.
+  - Conducted workshops for Microsoft TH, PTTEP, KTC, SCG, Banpu on various topics related to analytics, Alteryx, SQL, and cloud platforms.
 
 - Educational sharing
-  - Delivered presentations and workshops on machine learning, AI, and Python at various institutions and organisations.
+  - Delivered presentations and workshops on machine learning, AI, and Python at various institutions and organisations.
 
 Other experiences
 -----------------
@@ -165,24 +163,24 @@ Other experiences
 :  ***Receptionist (Casual)**\
 at Siam Retreat Massage* (Adelaide, SA, Australia).
 
-  - Provided excellent customer service as the front line of the store.
-  - Managed bookings and resolved customer complaints.
-  - Handled POS and cash handling.
-  - Assisted in day-to-day operations of the business.
+  - Provided excellent customer service as the front line of the store.
+  - Managed bookings and resolved customer complaints.
+  - Handled POS and cash handling.
+  - Assisted in day-to-day operations of the business.
 
 - Sep 2022 - Jan 2023
 :  ***Massage Therapist (Casual)**\
 at All Time Massage* (Adelaide, SA, Australia).
 
-  - Provided various massages with oil and without oil.
-  - Managed POS and HICAP claiming, answered phones, and handled bookings.
+  - Provided various massages with oil and without oil.
+  - Managed POS and HICAP claiming, answered phones, and handled bookings.
 
 - Sep 2022 - Nov 2022
 :  ***Food Runner (Casual)**\
 at Bangkok Boulevard* (Adelaide, SA, Australia).
 
-  - Delivered food to customers' tables promptly.
-  - Cleared tables and managed cutlery.
+  - Delivered food to customers' tables promptly.
+  - Cleared tables and managed cutlery.
 
 - Mar 2017 - Jun 2017
 :  ***Sales Representative**\
