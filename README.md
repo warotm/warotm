@@ -17,20 +17,7 @@ Specialities : Python, PySpark, SQL, GCP, Databricks, Alteryx
 Introduction
 ------------
 
-A Data Engineer with a strong background in artificial intelligence and machine learning, I am driven by a passion for optimising and automating data-related tasks to enhance efficiency and performance.
-
-My extensive experience in both technical and managerial domains enables me to effectively communicate and collaborate with cross-functional teams, bridging the gap between developers and business users.
-
-With a firm belief in sharing knowledge and expertise, I actively seek opportunities to mentor and assist others in their professional growth.
-
-Career Objective
-----------------
-
-Driven by a passion for exploration and global experiences, I have embarked on a journey to Australia to seek opportunities in a diverse and multicultural environment. My goal is to excel in a career overseas that fosters growth and provides exposure to various cultures and industries.
-
-My expertise lies in optimisation, automating processes, and streamlining operations to achieve peak efficiency. Continuously pursuing knowledge and skills is integral to my personal and professional development, ensuring I stay at the forefront of emerging trends and advancements.
-
-As I embrace new opportunities and embark on this exciting global journey, I am dedicated to deepening my understanding of people and fostering meaningful collaborations to drive success in every endeavour.
+A Data Engineer with a strong AI and machine learning background. I'm passionate about optimising and automating data tasks for enhanced efficiency. With experience in both technical and managerial roles, I excel at bridging the gap between developers and business users. Currently, seeking opportunities in Australia to grow my career in a diverse and multicultural environment. Continuously pursuing knowledge to stay ahead of emerging trends. Let's collaborate for success on this exciting global journey!
 
 Key Skill Summary
 -----------------
@@ -74,7 +61,7 @@ at [42 Adelaide](https://www.42adel.org.au/)* (Adelaide, SA, Australia).
 IT-related experiences
 ----------------------
 
-- Oct 2018 - May 2022
+- Oct 2018 - May 2022 / Mar 2023 - Current
 :   ***Senior Data Driven Insights Analyst**\
 at [MFEC Public Company Limited](https://www.mfec.co.th/)* (Bangkok, Thailand).
 
