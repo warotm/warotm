@@ -17,7 +17,13 @@ Specialities : Python, PySpark, SQL, GCP, Databricks, Alteryx
 Introduction
 ------------
 
-A Data Engineer with a strong AI and machine learning background. I'm passionate about optimising and automating data tasks for enhanced efficiency. With experience in both technical and managerial roles, I excel at bridging the gap between developers and business users. Currently, seeking opportunities in Australia to grow my career in a diverse and multicultural environment. Continuously pursuing knowledge to stay ahead of emerging trends. Let's collaborate for success on this exciting global journey!
+A Data Engineer with a strong AI and machine learning background. I'm passionate about optimising and automating data tasks for enhanced efficiency. Continuously pursuing knowledge to stay ahead of emerging trends.
+
+With experience in both technical and managerial roles, I excel at bridging the gap between developers and business users.
+
+Currently, seeking opportunities in Australia to grow my career in a diverse and multicultural environment.
+
+Let's collaborate for success on this exciting global journey!
 
 Key Skill Summary
 -----------------
