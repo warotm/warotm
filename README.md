@@ -9,7 +9,7 @@ LinkedIn : [linkedin.com/in/warotm](https://www.linkedin.com/in/warotm/)
 
 ----
 
-Data Engineer | AI/ML Specialist
+Data enthusiast | Crazy optimiser | AI/ML driven specialist
 Specialities : Python, PySpark, SQL, AWS, GCP, Databricks, Alteryx
 
 ----
@@ -17,11 +17,9 @@ Specialities : Python, PySpark, SQL, AWS, GCP, Databricks, Alteryx
 Introduction
 ------------
 
-Data Engineer specialised and interested in process optimisation, data analytics, artificial intelligence, machine learning, and cloud platforms.
+Data enthusiast specialised and interested in process optimisation, data analytics, artificial intelligence, machine learning, and cloud platforms.
 
-Currently working for Aerometrex, an Australian leading practitioner of aerial imaging, with MetroMap Insight, where spatial imagery meets machine learning.
-
-More than five years of data processing experience, as well as a master's degree in business. Competent at bridging the expectation gap between technical and business people.
+More than seven years of data driving experiences, as well as a master's degree in business. Competent at bridging the expectation gap between technical and business people.
 
 Constantly searching for an adventurous opportunity to challenge, hone and utilise all of my skills to exploit difficult-to-solve problems.
 
@@ -46,17 +44,20 @@ Key Skill Summary
 IT-related experiences
 ----------------------
 
-- Sep 2023 - Present
+- Sep 2023 - Apr 2025
 :   ***Software Engineer**\
 at [Aerometrex](https://aerometrex.com.au/)* (Adelaide, Australia).
 
-  - Working with MetroMap Insight, where spatial imagery meets machine learning.
+  - Worked with MetroMap Insight, where spatial imagery meets machine learning.
+  - Handled data engineering, data analytics, and internal software development tasks.
+  - Reduced 20% of the production pipeline's processing time and made it more resilient by logical rearrangement, refactoring, and decoupling.
   - Reduced 75% of wasting AWS scaling-in cost by optimising alarms and policies.
-  - Reduced 50% of processing time and computational cost owned by an existing pipeline by implementing caching and reordering processing steps.
+  - Reduced 50% of the processing time and computational cost owned by an existing pipeline by implementing caching and reordering processing steps.
   - Fixed geometry shifting caused by GDA2020-WSG84 conversion, which eliminates required post-processing.
   - Developed data ingestion workflows for large CSV and GeoJSON files.
+  - Revised an application to extract processed data for customers' custom requests as a web application with a simpler interface.
   - Created a web application to visualise processed data and initiate a pipeline for missing parts.
-  - Speeded up legacy PostGIS SQL queries by query optimisation and indexing.
+  - Boosted up legacy PostGIS SQL queries by query optimisation and indexing.
   - Reduced the size of existing Docker containers by cleaning up the package list and introducing multi-stage builds.
 
 - Mar 2023 - Sep 2023
@@ -73,7 +74,7 @@ at [MFEC Public Company Limited](https://www.mfec.co.th/)* (Bangkok, Thailand).
 at [MFEC Public Company Limited](https://www.mfec.co.th/)* (Bangkok, Thailand).
 
   - Led data engineering tasks, including architecture design and developing ETL pipelines on various cloud platforms.
-  - Implemented proof-of-concepts and quick-win solutions to evaluate project feasibilities and shape customers' expectations.
+  - Implemented proof-of-concepts and quick-win solutions to evaluate project feasibility and shape customers' expectations.
   - Researched artificial intelligence, machine learning, and cloud platforms, and conducted internal training to increase the team's knowledge capabilities.
   - Was the team's representative to speak or train AI/ML-related topics for customers and public educational institutes.
 
