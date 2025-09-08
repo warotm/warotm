@@ -1,233 +1,136 @@
-Warot Mai Makarananda
-=====================
+# Warot Mai Makarananda
 
-Current Location : Adelaide, Australia\
-Email : <warotm@gmail.com>\
-Phone : (+61) 0480 326 242\
-GitHub : [github.com/warotm](https://github.com/warotm)\
-LinkedIn : [linkedin.com/in/warotm](https://www.linkedin.com/in/warotm/)
+### Software Engineer & Optimisation Enthusiast
 
-----
-
-Data enthusiast | Crazy optimiser | AI/ML driven specialist
-Specialities : Python, PySpark, SQL, AWS, GCP, Databricks, Alteryx
+**Adelaide, Australia**
+<warotm@gmail.com>
+[GitHub](https://github.com/warotm) • [LinkedIn](https://www.linkedin.com/in/warotm)
 
 ----
 
-Introduction
-------------
+### About Me
 
-Data enthusiast specialised and interested in process optimisation, data analytics, artificial intelligence, machine learning, and cloud platforms.
+Hello! I'm Warot, a software engineer and a relentless optimiser at heart. My professional world revolves around data, cloud architecture, and AI, but my core passion is simple: making things work better. Whether that's shaving milliseconds off a data pipeline or refactoring code for clarity, I'm driven by the challenge of improvement.
 
-More than seven years of data driving experiences, as well as a master's degree in business. Competent at bridging the expectation gap between technical and business people.
+I thrive on bridging the gap between the technical and the practical. Sometimes that means turning complex data problems into elegant business solutions. Other times, it means channelling personal experience into building tools for empowerment—like my latest project, P.E.T.E.R., which uses AI to bring objective clarity to confusing conversations.
 
-Constantly searching for an adventurous opportunity to challenge, hone and utilise all of my skills to exploit difficult-to-solve problems.
+This space is a living snapshot of my professional work, my learning adventures, and the tools I'm building to solve problems I care deeply about. Feel free to look around, and don't hesitate to connect!
 
-Key Skill Summary
------------------
+----
 
-- **Programming** : Python, PySpark, SQL, RegEx, C
-  - Data Manipulation : Pandas, Dask
-  - Data Visualisation : Plotly, Matplotlib, Seaborn
-  - Machine Learning : Sklearn, SparkML, mlFlow, PyTorch, TensorFlow-Keras
-  - Web Scraping / Web Automation : Scrapy, Selenium
-  - Pipeline : Airflow, Dagster
-  - Web Application : Dash
-- **Cloud** : Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure
-- **Data Warehouse** : BigQuery, Databricks
-- **Data / ML Tools** : Alteryx, PowerBI
-- **Operating System** : MS Windows, Linux (Debian/Arch)
-- **Languages**
-  - English : IELTS 6.5 (taken on 2022)
-  - Thai : Native speaker
+### My Toolkit
 
-IT-related experiences
-----------------------
+| Category | Technologies |
+| :--- | :--- |
+| **Languages & Frameworks** | Python, PySpark, SQL, C, RegEx |
+| **Data & ML Libraries** | Pandas, Dask, Sklearn, SparkML, mlFlow, PyTorch, TensorFlow-Keras, LLM, Ollama |
+| **Cloud & DevOps** | AWS, GCP, Azure, Docker, Docker Compose, Airflow, Dagster, n8n |
+| **Data Platforms & Tools** | BigQuery, Databricks, Alteryx, PowerBI, PostGIS, QGIS, rasterio |
+| **Visualisation & Web** | Plotly, Matplotlib, Seaborn, Dash, Scrapy, Selenium |
 
-- Sep 2023 - Apr 2025
-:   ***Software Engineer**\
-at [Aerometrex](https://aerometrex.com.au/)* (Adelaide, Australia).
+----
 
-  - Worked with MetroMap Insight, where spatial imagery meets machine learning.
-  - Handled data engineering, data analytics, and internal software development tasks.
-  - Reduced 20% of the production pipeline's processing time and made it more resilient by logical rearrangement, refactoring, and decoupling.
-  - Reduced 75% of wasting AWS scaling-in cost by optimising alarms and policies.
-  - Reduced 50% of the processing time and computational cost owned by an existing pipeline by implementing caching and reordering processing steps.
-  - Fixed geometry shifting caused by GDA2020-WSG84 conversion, which eliminates required post-processing.
-  - Developed data ingestion workflows for large CSV and GeoJSON files.
-  - Revised an application to extract processed data for customers' custom requests as a web application with a simpler interface.
-  - Created a web application to visualise processed data and initiate a pipeline for missing parts.
-  - Boosted up legacy PostGIS SQL queries by query optimisation and indexing.
-  - Reduced the size of existing Docker containers by cleaning up the package list and introducing multi-stage builds.
+### My Career Journey
 
-- Mar 2023 - Sep 2023
-:   ***Senior Data Driven Insights Analyst**\
-at [MFEC Public Company Limited](https://www.mfec.co.th/)* (Bangkok, Thailand).
+**Software Engineer** | Aerometrex (Adelaide, Australia)
+*Sep 2023 - Apr 2025*
 
-  - Outsourced as a data scientist to work with Thailand's top oil and gas company's team on a Q&A system powered by a semantic search engine and large language models.
-  - Developed data extraction workflows for legacy systems, documents, spreadsheets, and images.
-  - Researched GPT3.5 and GPT4 prompt engineering to eliminate their hallucination, make them provide answer references, and make them run custom-defined functions.
-  - Communicated with end users to get requirements, update project status, conduct testing, and apply user feedback.
+My time at Aerometrex was a fantastic deep dive into the world of geospatial data. Working with massive aerial imagery datasets was an incredible challenge, and I'm proud of how I helped make our systems more efficient and resilient. Some of my key contributions included:
+-   I optimised a core production pipeline by refactoring its logic, which reduced processing time by 20%.
+-   I overhauled our AWS auto-scaling policies, cutting wasteful scaling-in costs by 75%.
+-   I implemented a caching system in a legacy pipeline that slashed its processing time and computational cost by 50%.
 
-- Oct 2018 - May 2022
-:   ***Senior Data Driven Insights Analyst**\
-at [MFEC Public Company Limited](https://www.mfec.co.th/)* (Bangkok, Thailand).
+**Senior Data Driven Insights Analyst** | MFEC Public Company Limited (Bangkok, Thailand)
+*Mar 2023 - Sep 2023*
 
-  - Led data engineering tasks, including architecture design and developing ETL pipelines on various cloud platforms.
-  - Implemented proof-of-concepts and quick-win solutions to evaluate project feasibility and shape customers' expectations.
-  - Researched artificial intelligence, machine learning, and cloud platforms, and conducted internal training to increase the team's knowledge capabilities.
-  - Was the team's representative to speak or train AI/ML-related topics for customers and public educational institutes.
+As a consultant, I had the exciting opportunity to work with Thailand's top oil and gas company on a cutting-edge Q&A system. This project was a deep dive into the practical applications of LLMs.
+-   I built data extraction workflows for everything from modern databases to legacy documents and images.
+-   I researched and applied prompt engineering techniques to GPT-3.5/4 to reduce hallucinations and improve accuracy.
+-   I acted as the main technical liaison with end-users, ensuring the final product met their needs.
 
-- Dec 2017 - Sep 2018
-:   ***Data Scientist / Business Development**\
-at [Data Café Company (MFEC's subsidiary)](https://datacafethailand.com/)* (Bangkok, Thailand).
+**Senior Data Driven Insights Analyst** | MFEC Public Company Limited (Bangkok, Thailand)
+*Oct 2018 - May 2022*
 
-  - Was a co-instructor in holding DataCafe Trainee, an 8-week-long camp to train 10 undergraduate students from various faculties to scrap data, create data visualisations, and train image classification models on their interested topics.
-  - Developed tools to simplify data migration from on-premise to cloud.
-  - Supported senior instructors on training activities and materials on data science topics.
+In my first senior role at MFEC, I focused on leading data engineering initiatives and building the team's capabilities.
+-   I led the design of cloud data architectures and developed complex ETL pipelines on both AWS and GCP.
+-   I built numerous Proof-of-Concepts to help clients visualise project feasibility and shape their expectations.
+-   I researched emerging AI/ML trends and created internal training programs to upskill the entire team.
 
-Education
----------
+**Data Scientist / Business Development** | Data Café Company (Bangkok, Thailand)
+*Dec 2017 - Sep 2018*
 
-- Aug 2012 - Sep 2014
-:   ***Master of Business Administration (Dual majors in Marketing and Operations Management)**\
-from National Institute of Development Administration* (Bangkok, Thailand).
+This role was my entry into professional data science and was heavily focused on education and community.
+-   I co-instructed an 8-week data science bootcamp for university students, which was an incredibly rewarding experience.
+-   I developed tools that simplified migrating data from on-premise servers to the cloud for our clients.
 
-- Jun 2007 - Mar 2011
-:   ***Bachelor of Engineering (Computer engineering with second-class honours)**\
-from Kasetsart University* (Bangkok, Thailand).
+----
 
-- Jul 2022 - Jan 2023
-:   ***English Academic Purposes Program (Ending level of A1)**\
-at ILSC* (Adelaide, SA, Australia).
+### Projects & Accomplishments
 
-- Nov 2022 - Dec 2022
-:  ***Pisciner**\
-at [42 Adelaide](https://www.42adel.org.au/)* (Adelaide, SA, Australia).
+**P.E.T.E.R. - A Tool for Clarity in Communication** | *Personal Project (In Progress, 2025)*
+This is a project I built from a deeply personal place: a desire to turn a painful experience in a toxic workplace into a tool for empowerment for others. P.E.T.E.R. is my answer to the confusion and self-doubt that can follow difficult conversations, designed to be the neutral third party I wish I'd had.
+-   It's a web-based tool that uses Google's Gemini AI to provide an objective analysis of conversation transcripts, highlighting both manipulative and constructive communication tactics.
+-   Engineered with a privacy-first, client-side architecture; user data is sent directly to the Google API and is never stored on a server I control.
+-   Generates a downloadable report of the analysis, offering users a tangible record for private reflection.
+([Project Link](https://linktr.ee/warotm))
 
-  - The Piscine is an intensive 4-week Bootcamp focused on coding, teamwork, and personal growth.
+**Winner - GovHack2023** | *Remix the Archives using the PROV API*
+In late 2023, I teamed up with friends for the annual GovHack competition. We were inspired by the thousands of historical photos in the Public Record of Victoria's archive and built "ReVix," a tool to bring these images back to life for a modern audience. ([Project Page](https://2023.hackerspace.govhack.org/projects/revix))
 
-Licenses
---------
+**1st Place - National Round - Microsoft AI for Accessibility Hackathon 2019**
+Our team developed a real-time, ML-powered chatbot to translate sign language into text. It was a powerful demonstration of how AI can be used to break down communication barriers.
 
-- [AWS Certified Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/8c17f7493269431ca8b57114481ff340)\
-    *Issued by Amazon Web Services (AWS)*
-    (Jan 2024 - Jan 2027)
+**Speaker - Google Cloud Summit / DevFest Bangkok 2019**
+I had the honor of presenting "MDU," a concept for a serverless document-processing system on GCP. I demonstrated how pre-trained ML models could automate tedious HR workflows. ([Presentation Deck](https://docs.google.com/presentation/d/1AyX0wY6w7iMr1NBsTKs9DBoXmAXy6UTqSKS0EGAtE_M/edit?usp=sharing))
 
-- [Google Cloud Certified - Professional Cloud Architect](https://www.credential.net/ad768d5a-4abd-4e87-9afd-69e19c97a652)\
-    *Issued by Google Cloud Platform Certified*
-    (Nov 2019 - Nov 2021)
+----
 
-- Google Cloud Certified - Professional Cloud Engineer\
-    *Issued by Google Cloud Platform Certified*
-    (Apr 2018 - Apr 2020)
+### My Winding Path: Experiences Beyond Tech
 
-- [Partner Training - Developer Essentials](https://credentials.databricks.com/155b03e1-08dc-4210-8e83-98f553d75e4d)\
-    *Issued by Databricks*
-    (Sep 2021 - Sep 2023)
+My path to a dedicated career in software engineering wasn't a straight line. I believe that diverse experiences build a more well-rounded person, and I've had the opportunity to work in fields spanning customer service, sales, finance, and wellness. These roles were invaluable, teaching me practical lessons in empathy, communication, and performing under pressure—skills that I bring to every technical project I tackle today. Here’s a brief look at that part of my journey.
 
-- [Partner Training - Developer Foundations](https://credentials.databricks.com/0701c154-349f-426c-8169-356cbb8bf59c)\
-    *Issued by Databricks*
-    (Aug 2021 - Aug 2023)
+-   **Receptionist & Massage Therapist** | Adelaide, SA (2022 - 2023)
+    > During my initial period in Australia while studying English, I worked in roles that were all about people. I learned firsthand about front-line customer service, managing client expectations, and the operational details of a small business.
 
-- [Data Scientist with Python Track](https://www.datacamp.com/statement-of-accomplishment/track/3f8a3dcee414a38050ead385dc11a35d02ea2010)\
-    *Issued by DataCamp*
-    (Mar 2018 - Current)
+-   **Food Runner** | Bangkok Boulevard, Adelaide, SA (2022)
+    > A brief but intense role that was a masterclass in teamwork and efficiency in a high-pressure environment.
 
-- [Data Science Topics Subject](https://app.dataquest.io/view_cert/GZCQJP0S6WLYQT99BFHJ/)\
-    *Issued by Dataquest.io*
-    (Sep 2017 - Current)
+-   **Sales Representative** | Fuji Xerox, Bangkok (2017)
+    > This was my first real experience in translating complex product features into tangible business benefits for clients—a skill I use daily when discussing technical solutions with stakeholders.
 
-- [Alteryx Advanced Certified](https://s3.us-east-2.amazonaws.com/ayx.certificates/20190726_AlterxDesignerAdvanced0TPn5UeR0Tw8GRaxmTFmb1clW5FUtmWlVdOdlWrBHVUhGbt9ENJpnT.pdf)\
-    *Issued by Alteryx*
-    (Jul 2019 - Jul 2021)
+-   **Assistant Relationship Manager** | Kasikorn Bank, Bangkok (2016)
+    > Working in the banking sector taught me about the importance of building trust and maintaining long-term client relationships.
 
-Recognition
------------
+----
 
-- **Winner of GovHack2023's Remix the Archives using the PROV API\
-    *GovHack Australia Ltd. Nov 2023***
+### My Background & Learning Path
 
-  - Revitalise. Reimagine. ReVix.
-  - The Public Record of Victoria (PROV) houses images of immense historical values. However, they are heavily underutilised. While digitisation of these historic photographs is a great step forward, we, reVix, aims to bring these images to the public consciousness of the modern world.
+I started my journey with a foundation in engineering and business, which gave me a unique perspective on solving technical problems with practical applications in mind.
 
-  - More details:
-    - [ReVix project page](https://2023.hackerspace.govhack.org/projects/revix)
-    - [GovHack 2023 winners](https://govhack.org/2023-winners/)
+-   **Master of Business Administration** | *National Institute of Development Administration*
+-   **Bachelor of Engineering (Computer Engineering)** | *Kasetsart University*
 
-- **Sign-language translator chatbot\
-    *Microsoft AI for Accessibility Hackathon 2019***
+I'm a firm believer in continuous, hands-on learning. Some key milestones in my development have been:
 
-  - Achieved 1st rank in the national round.
-  - Developed an ML-based chatbot to translate sign language to text, enhancing communication for people with hearing impairments.
+-   **Pisciner (Intensive 4-Week Coding Bootcamp)** | *42 Adelaide*
+-   **English for Academic Purposes Program** | *ILSC Adelaide*
 
-- **MDU (MFEC Document Understanding)\
-    *Published at Google Cloud Summit 2019 / Google DevFest Bangkok***
+**Certifications**
+-   **Active:** AWS Certified Cloud Practitioner (Valid until Jan 2027)
+-   **Past:**
+    -   Google Cloud Certified - Professional Cloud Architect (2019 - 2021)
+    -   Google Cloud Certified - Professional Cloud Engineer (2018 - 2020)
+    -   Databricks Partner Training - Developer Essentials & Foundations (2021 - 2023)
+    -   Alteryx Advanced Certified (2019 - 2021)
 
-  - Demonstrated the concept of converting human-resource-related documents using pre-trained ML models and serverless functions on Google Cloud Platform.
-  - [Presentation deck](https://docs.google.com/presentation/d/1AyX0wY6w7iMr1NBsTKs9DBoXmAXy6UTqSKS0EGAtE_M/edit?usp=sharing)
+----
 
-Previous Projects
------------------
+### Interests & Hobbies
 
-*According to customer/company’s data protection policies, unpublished projects are not described here.*
+Beyond the code, I enjoy exploring a mix of analytical and physical pursuits, including quantitative investing, the art of coffee making, practicing Aikido and Karate, and delving into behavioural economics. I'm also a big fan of anime, sci-fi films, and getting outdoors for hiking and snowboarding.
 
-- Internal training
-  - **ExAcademy ExAData**
-    - Trained individuals to become data engineers, acted as a DataAnalytics101-AL/ML topic trainer, and mentored final projects.
+----
 
-  - **Data Café Analytic Trainee**
-    - Trained inexperienced interns in data science tasks, including web scraping, Python and SQL programming, data visualisation, and ML model training.
+### Let's Connect
 
-  - **Alteryx Series**
-    - Trained the team on "Alteryx as ETL and ML tool" to enable Alteryx Designer Core/Advanced certifications.
-
-- External training
-  - Conducted workshops for Microsoft TH, PTTEP, KTC, SCG, Banpu on various topics related to analytics, Alteryx, SQL, and cloud platforms.
-
-- Educational sharing
-  - Delivered presentations and workshops on machine learning, AI, and Python at various institutions and organisations.
-
-Other experiences
------------------
-
-- Jul 2022 - Jan 2023
-:  ***Receptionist (Casual)**\
-at Siam Retreat Massage* (Adelaide, SA, Australia).
-
-  - Provided excellent customer service as the front line of the store.
-  - Managed bookings and resolved customer complaints.
-  - Handled POS and cash handling.
-  - Assisted in day-to-day operations of the business.
-
-- Sep 2022 - Jan 2023
-:  ***Massage Therapist (Casual)**\
-at All Time Massage* (Adelaide, SA, Australia).
-
-  - Provided various massages with oil and without oil.
-  - Managed POS and HICAP claiming, answered phones, and handled bookings.
-
-- Sep 2022 - Nov 2022
-:  ***Food Runner (Casual)**\
-at Bangkok Boulevard* (Adelaide, SA, Australia).
-
-  - Delivered food to customers' tables promptly.
-  - Cleared tables and managed cutlery.
-
-- Mar 2017 - Jun 2017
-:  ***Sales Representative**\
-at Fuji Xerox* (Bangkok, Thailand).
-
-- Feb 2016 - Jul 2016
-:  ***Assistant Relationship Manager**\
-at Kasikorn Bank* (Bangkok, Thailand).
-
-Hobby and Interest
-------------------
-
-- **Current Interest** : Parkour/Free running, Cybersecurity, Coffee making
-- **Self-defence** : Aikido practice
-- **Play Guitar** : Basic chord strumming for socialising and self-calming
-- **Reading** : Business, Investment, Economic Behaviour, Psychology
-- **Movies/Series** : Sci-fi, Action, Comedy, Documentary
-- **Travelling** : Hiking, Hot spring, Skateboarding/Snowboarding
+I'm always open to discussing fascinating data challenges, collaborating on open-source projects, or sharing thoughts on the latest in tech. The best way to reach me is via **[LinkedIn](https://www.linkedin.com/in/warotm/)** or by sending me an **[email](mailto:warotm@gmail.com)**.
