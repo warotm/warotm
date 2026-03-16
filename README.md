@@ -1,8 +1,8 @@
 # Warot Mai Makarananda
 
-### Software Engineer | Founder, [CrucibleWorks.io](https://crucibleworks.io)
+### Software Engineer
 
-**`From Crucible to Clarity.`**
+**`Clarity to see the world as it is. Courage to stand firm within it.`**
 
 **Adelaide, Australia**
 <warotm@gmail.com>
@@ -10,17 +10,15 @@
 
 ---
 
-### My Mission
+### About Me
 
 Hi! I'm Mai. I build resilient systems—both technical and human.
 
-My career is dedicated to a single principle: optimisation. As a software engineer, I apply it to data pipelines, cloud infrastructure, and AI models, seeking to build elegant, efficient, and scalable solutions. As a founder, I apply it to a more complex challenge: human communication.
+My career is dedicated to a single principle: optimisation. As a software engineer, I apply it to data pipelines, cloud infrastructure, and AI models, seeking to build elegant, efficient, and scalable solutions. I apply the same discipline to a more complex challenge: human communication.
 
-My journey led me through a profound professional crucible, an experience that forged my belief that psychological safety and clear communication are not "soft skills," but the foundational bedrock of any high-performing system.
+In 2026, I am not asking for a year without storms. I am asking for the clarity to see the world as it truly is, and the courage to stand firm within it.
 
-This belief is the mission of my company, **CrucibleWorks.io**. We metabolize hard-won experience into tools that empower individuals and organizations. Our first product, **ClarityMe.ai**, is an AI-powered tool designed to bring objective analysis to communication, helping people navigate difficult conversations with confidence.
-
-This profile is a chronicle of that mission: building robust technology and fostering the courage to build a better, more intentional world.
+I exist because of friends who validated my sanity when I was gaslighted, who lent their hands when I couldn't use mine, and who chose to share burdens instead of looking away. Their choice to believe in goodness—despite evidence to the contrary—is why I still believe in building better systems.
 
 ---
 
@@ -77,24 +75,9 @@ This role was my entry into professional data science and was heavily focused on
 
 ### My Work
 
-**Founder** | CrucibleWorks.io
-_2025 - Present_
+**Open Research Contribution** | _Psychological Safety Case Study: Australian Workplace Context_
 
-**`True power lies not in conforming to a broken world, but in having the courage to build a new one.`**
-
-CrucibleWorks is the company I founded to build tools at the intersection of technology and human resilience. Our mission is to engineer clarity.
-
-**Flagship Product: ClarityMe.ai** | _AI-Powered Communication Analysis_
-The experience of navigating a toxic professional environment became the foundational data set for `ClarityMe.ai`. It is the neutral, objective third party I wish I'd had, designed to analyze conversation transcripts and empower users with objective insights.
-
-- **Core Function:** Uses Google's Gemini AI to analyze conversation transcripts, identifying both constructive communication patterns and manipulative tactics like gaslighting.
-- **Architecture:** Engineered with a privacy-first, client-side architecture. User data is never stored on a server I control.
-- **Output: A Tactical Deconstruction Report.** The tool generates an analysis that transforms confusing interactions into a clear, strategic playbook. It provides:
-  - **Surgical Highlighting:** Pinpoints the specific sentences and phrases being used as manipulative levers.
-  - **Tactic Identification:** Assigns clear, research-backed labels to these phrases (e.g., "Gaslighting," "Moving the Goalposts," "Public Shaming").
-  - **Intent Analysis:** Deconstructs the underlying psychological driver and tactical purpose behind the words, answering the "why" behind the attack.
-  - **Quantifiable Metrics:** Provides an objective **Impact Score** and a **Confidence Level** for each finding, replacing emotional doubt with data-driven clarity.
-  ([Project Link](https://clarityme.ai))
+This dataset documents one immigrant software engineer's experience navigating workplace culture, management dynamics, and formal complaint processes at an Australian technology company (2023-2025). The materials include email correspondence, chat transcripts, and HR documentation that illustrate the evolution of psychological safety indicators over an 18-month period. ([Dataset](https://github.com/warotm/psych_safety_aus_workplace))
 
 **Winner - GovHack2023** | _Remix the Archives using the PROV API_
 In late 2023, I teamed up with friends for the annual GovHack competition. We were inspired by the thousands of historical photos in the Public Record of Victoria's archive and built "ReVix," a tool to bring these images back to life for a modern audience. ([Project Page](https://2023.hackerspace.govhack.org/projects/revix))
@@ -146,7 +129,7 @@ I'm a firm believer in continuous, hands-on learning. Some key milestones in my 
 - **Pisciner (Intensive 4-Week Coding Bootcamp)** | _42 Adelaide_
 - **English for Academic Purposes Program** | _ILSC Adelaide_
 
-**Certifications**
+#### Certifications
 
 - **Active:** AWS Certified Cloud Practitioner (Valid until Jan 2027)
 - **Past:**
